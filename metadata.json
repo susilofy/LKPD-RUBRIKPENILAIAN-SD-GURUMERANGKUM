@@ -1,0 +1,6 @@
+{
+  "name": "Generator LKPD & Rubrik Penilaian SD",
+  "description": "Aplikasi profesional pembuatan Lembar Kerja Peserta Didik (LKPD) dan Rubrik Penilaian untuk guru Sekolah Dasar (Kelas 1–6) Kurikulum Merdeka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
